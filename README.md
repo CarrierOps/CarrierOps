@@ -9,9 +9,14 @@ To learn more about the processes 📑 specific to the CarrierOps Infrastructure
 
 To start contributing 👯 to our infrastructure, message 📫 Thomas or Michael to get you started.
 
-**Link To The Form Here Would Be Useful In Here**
+***Ideas To Put in Here***
+
+**Link To The Form Would Be Useful In Here**
 
 **List Of Developers or who to contact for what???**
+
+**Quick about us for the dev?**
+
 
 
 <!--
