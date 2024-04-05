@@ -9,13 +9,15 @@ To learn more about the processes 📑 specific to the CarrierOps Infrastructure
 
 To start contributing 👯 to our infrastructure, message 📫 Thomas or Michael to get you started.
 
-***Ideas To Put in Here***
 
-**Link To The Form Would Be Useful In Here**
 
-**List Of Developers or who to contact for what???**
+<!-- **Link To The Form Would Be Useful In Here**  -> Very useful -->
 
-**Quick about us for the dev?**
+<!-- ***Ideas To Put in Here***
+
+**List Of Developers or who to contact for what???** -> Not necessary -> add to configs -> add emails in the script/ script config.
+
+**Quick about us for the dev?** -> maybe -->
 
 
 
